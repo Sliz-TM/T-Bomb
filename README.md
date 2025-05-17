@@ -1,4 +1,4 @@
-# ESnakeP32
+# T-Bomb
 
 This is the <b>official firmware</b> for <b>ESP32</b> <b>(M5StickC Plus2)</b> The Atomic bomb game is the simplest for this device
 
