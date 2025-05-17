@@ -13,7 +13,7 @@ This is the <b>official firmware</b> for <b>ESP32</b> <b>(M5StickC Plus2)</b> Th
 
 4)Next Go to <b>"Sketch>Connect library"</b> Next choose to <b>connect the .zip file and choose the M5StickCPlus2.zip</b> file from the <b>Repository</b> and confirm and wait for the download and after this, <b>re-enter the Arduino IDE</b>
 
-5)Then in <b>File>Open</b> and select the file ESnakeP32.ino then next to it select where the Device is find M5 StickC Plus2 and then go to Flash Requenty and Erase all flash before loading the sketch select Enabled, then next to the check mark select the arrow to the right and wait for loading then turn on the device: <b>Button C (2-3 seconds)</b> and <b>wait for the animation to appear</b>
+5)Then in <b>File>Open</b> and select the file T-Bomb.ino then next to it select where the Device is find M5 StickC Plus2 and then go to Flash Requenty and Erase all flash before loading the sketch select Enabled, then next to the check mark select the arrow to the right and wait for loading then turn on the device: <b>Button C (2-3 seconds)</b> and <b>wait for the animation to appear</b>
 
 6)After that connect the piezo element (BUZZER) to GND (Black wire) and (Red wire) to G26
 
